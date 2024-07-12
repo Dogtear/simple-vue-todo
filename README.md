@@ -1,6 +1,12 @@
-# vue-composition-notebalss
+# Vue Simple todos app
 
-This template should help get you started developing with Vue 3 in Vite.
+A Simple Todo App made from `vue.js version 3` and with `composition` api
+
+#### Able to:
+
+- Create task
+- Remove Task
+- View all Task
 
 ## Recommended IDE Setup
 
